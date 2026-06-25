@@ -1,0 +1,523 @@
+[
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/",
+    "path": "/",
+    "resource_type": "document",
+    "post_data": null,
+    "time": "2026-06-25 17:12:11"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/captchaImage",
+    "path": "/prod-api/captchaImage",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:12"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/captchaImage",
+    "path": "/prod-api/captchaImage",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:12"
+  },
+  {
+    "event": "request",
+    "method": "POST",
+    "url": "https://vue.ruoyi.vip/prod-api/login",
+    "path": "/prod-api/login",
+    "resource_type": "xhr",
+    "post_data": "{\"username\":\"admin\",\"password\":\"admin123\",\"code\":\"5\",\"uuid\":\"3ed453f6c9e74e16a8565f6061c3531d\"}",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/login",
+    "path": "/prod-api/login",
+    "content_type": "application/json;charset=UTF-8",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/index",
+    "path": "/index",
+    "resource_type": "document",
+    "post_data": null,
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:24"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/system/user",
+    "path": "/system/user",
+    "resource_type": "document",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_normal_disable",
+    "path": "/prod-api/system/dict/data/type/sys_normal_disable",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_user_sex",
+    "path": "/prod-api/system/dict/data/type/sys_user_sex",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/user/list?pageNum=1&pageSize=10",
+    "path": "/prod-api/system/user/list?pageNum=1&pageSize=10",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/user/deptTree",
+    "path": "/prod-api/system/user/deptTree",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/config/configKey/sys.user.initPassword",
+    "path": "/prod-api/system/config/configKey/sys.user.initPassword",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_user_sex",
+    "path": "/prod-api/system/dict/data/type/sys_user_sex",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_user_sex",
+    "path": "/prod-api/system/dict/data/type/sys_user_sex",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/user/deptTree",
+    "path": "/prod-api/system/user/deptTree",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_normal_disable",
+    "path": "/prod-api/system/dict/data/type/sys_normal_disable",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/config/configKey/sys.user.initPassword",
+    "path": "/prod-api/system/config/configKey/sys.user.initPassword",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/user/list?pageNum=1&pageSize=10",
+    "path": "/prod-api/system/user/list?pageNum=1&pageSize=10",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_user_sex",
+    "path": "/prod-api/system/dict/data/type/sys_user_sex",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:27"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/system/role",
+    "path": "/system/role",
+    "resource_type": "document",
+    "post_data": null,
+    "time": "2026-06-25 17:12:29"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_normal_disable",
+    "path": "/prod-api/system/dict/data/type/sys_normal_disable",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/role/list?pageNum=1&pageSize=10",
+    "path": "/prod-api/system/role/list?pageNum=1&pageSize=10",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_normal_disable",
+    "path": "/prod-api/system/dict/data/type/sys_normal_disable",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/role/list?pageNum=1&pageSize=10",
+    "path": "/prod-api/system/role/list?pageNum=1&pageSize=10",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:30"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/system/menu",
+    "path": "/system/menu",
+    "resource_type": "document",
+    "post_data": null,
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getInfo",
+    "path": "/prod-api/getInfo",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/getRouters",
+    "path": "/prod-api/getRouters",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_show_hide",
+    "path": "/prod-api/system/dict/data/type/sys_show_hide",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_normal_disable",
+    "path": "/prod-api/system/dict/data/type/sys_normal_disable",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/menu/list",
+    "path": "/prod-api/system/menu/list",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "request",
+    "method": "GET",
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "resource_type": "xhr",
+    "post_data": null,
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_normal_disable",
+    "path": "/prod-api/system/dict/data/type/sys_normal_disable",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/dict/data/type/sys_show_hide",
+    "path": "/prod-api/system/dict/data/type/sys_show_hide",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/notice/listTop",
+    "path": "/prod-api/system/notice/listTop",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:32"
+  },
+  {
+    "event": "response",
+    "status": 200,
+    "url": "https://vue.ruoyi.vip/prod-api/system/menu/list",
+    "path": "/prod-api/system/menu/list",
+    "content_type": "application/json",
+    "time": "2026-06-25 17:12:32"
+  }
+]
